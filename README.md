@@ -1,7 +1,5 @@
 ![Nakuru Labs Banner](images/banner.png)
 
-# Nakuru Labs
-
 Independent game development studio. We build games and occasionally
 release developer tools grown out of our own production needs.
 
