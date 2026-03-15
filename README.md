@@ -1,16 +1,15 @@
-## Hi there 👋
+![Nakuru Labs Banner](banner.JPG)
 
-<!--
-**nakuru-labs/nakuru-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nakuru Labs
 
-Here are some ideas to get you started:
+Independent game development studio. We build games and occasionally
+release developer tools grown out of our own production needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+### [FludeX](link-to-asset-store)
+A modular runtime debug tool for Unity games. See what's happening
+inside your game at runtime — without any overhead in production builds.
+
+## Contact
+support@nakurulabs.com
