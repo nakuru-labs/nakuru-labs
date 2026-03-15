@@ -1,4 +1,4 @@
-![Nakuru Labs Banner](banner.JPG)
+![Nakuru Labs Banner](images/banner.png)
 
 # Nakuru Labs
 
